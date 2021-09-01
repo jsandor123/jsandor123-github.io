@@ -8,5 +8,14 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/jake-sandor/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-<a href="/pdf/Jake_Sandor_Resume_2021.pdf?raw=true">Current Resume </a>
+<header>
+        <h1><a href="/pdf/Jake_Sandor_Resume_2021.pdf?raw=true">View Resume</a></h1>
+       
+        
 
+        <ul class="downloads">
+          <li><a href="/pdf/Jake_Sandor_Resume_2021.pdf?raw=true">Download Resume</a></li>
+          
+        </ul>
+      
+      </header>
